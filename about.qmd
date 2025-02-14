@@ -3,5 +3,3 @@ title: "About"
 ---
 
 Hi! I'm Mckenna. I'm a 4th year Ecosystem Science and Sustainability student at Colorado State University. I love to ski, learn new things, and play Mario Party with my roommates.
-
-![](img/IMG_3760.JPG){width="134"}
