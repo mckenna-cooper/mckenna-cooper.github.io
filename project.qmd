@@ -11,5 +11,3 @@ As a student at the Warner College of Natural Resources, I have gained experienc
 -   **Data-Driven Approach**: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.
 -   **Targeted Community Impact**: Determined Borough Park as a high-priority area needing a new park.
 -   **Advocacy for Environmental Equity**: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.![]()
-
-[View Infographic](img/brooklyn-youth_parks-project.pdf)
