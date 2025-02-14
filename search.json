@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "As a student at the Warner College of Natural Resources, I have gained experience with various software and data processing tools to develop solutions for environmental projects. I have a basic understanding of ArcGIS, which I have applied in coursework (see project below). Currently, I am expanding my technical skills in Quantitative Reasoning for Ecosystem Science, where I am learning to code in R using RStudio and build websites, including this one."
+  },
+  {
+    "objectID": "project.html#arcgis-brooklyn-youth-parks-project",
+    "href": "project.html#arcgis-brooklyn-youth-parks-project",
+    "title": "Projects",
+    "section": "ArcGIS: Brooklyn Youth Parks Project",
+    "text": "ArcGIS: Brooklyn Youth Parks Project\n\nProject Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\n\nView Infographic"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University with a passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions. about"
+  }
+]
