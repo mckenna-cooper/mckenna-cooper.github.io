@@ -14,6 +14,9 @@ website:
         text: Referenced
       - href: projects.qmd
         text: Projects
+      - href: resume.qmd
+        text: Resume
+      
 
 format:
   html:

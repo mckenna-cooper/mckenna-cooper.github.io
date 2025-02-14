@@ -1,5 +1,18 @@
 ---
 title: "About"
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 17em
+  links: # create buttons
+    - text: LinkedIn
+      href: www.linkedin.com/in/mckennacooper-ess-csu
+      target: _blank # opens link in a new browser tab
+    - text: GitHub
+      href: https://github.com/mckenna-cooper
+      target: _blank 
+    - text: Email
+      href: mailto: mcooper2@colostate.edu
 ---
 
-Hi! I'm Mckenna. I'm a 4th year Ecosystem Science and Sustainability student at Colorado State University. I love to ski, learn new things, and play Mario Party with my roommates.
+I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University with a passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions. about

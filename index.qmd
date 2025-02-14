@@ -1,7 +1,6 @@
 ---
 title: "Mckenna Cooper"
 image: imgs/IMG_3760.JPG
-
 ---
 
 # Welcome!

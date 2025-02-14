@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi! I’m Mckenna. I’m a 4th year Ecosystem Science and Sustainability student at Colorado State University. I love to ski, learn new things, and play Mario Party with my roommates."
+    "text": "I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University with a passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions. about"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "During my Spring Semester of 2025, I took Quantitative Reasoning for Ecosystem Science. I learned how to utilize RStudio, GitHub, and Quarto to write code, showcase my projects for future employers, and make personalized websites. Super cool! below is the link to my github where you can see all of my current repositories. More coming soon!\nhttps://github.com/mckenna-cooper"
+  },
+  {
+    "objectID": "project.html#building-a-project-website",
+    "href": "project.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nUsed Quarto, GitHub, and Rstudio to create a personal portfolio in a website format.\nOrganized information into appropriate file pathways.\nDid something I never thought I’d do: create a website!"
   }
 ]
