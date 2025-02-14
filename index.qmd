@@ -1,3 +1,10 @@
 ---
-title: "About"
+title: "Home"
+format: html
 ---
+
+# Welcome!
+
+This website showcases my work in Quantitative Reasoning for Ecosystem Science.
+
+Navigate using the menu to learn more about my backgroud, projects, and references.
