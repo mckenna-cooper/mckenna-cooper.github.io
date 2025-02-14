@@ -4,18 +4,24 @@ project:
 
 website:
   title: "Mckenna Cooper"
+  favicon: img/logo.png # NOTE: that the `favicon` is a `website` level option (not under `navbar`)
   navbar:
+    title: false # override printing your website `title` (e.g. "Mckenna Cooper" on line 6)
+    logo: img/logo.png
+    logo-alt: "Mckenna Cooper"
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: referenced.qmd
-        text: Referenced
       - href: projects.qmd
         text: Projects
       - href: img/mcooper_resume_01302025.pdf
         text: Resume
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Mckenna Cooper
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/mckenna-cooper/mckenna-cooper.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
       
 
 format:
