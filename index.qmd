@@ -1,12 +1,11 @@
 ---
-title: "About Me"
-
-Hi! I'm Mckenna. I am a 4th year ESS student currently taking 
+title: "Home
 ---
 
-This is a Quarto website.
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
 
-```{hi}
-```
+---
+"
+---
