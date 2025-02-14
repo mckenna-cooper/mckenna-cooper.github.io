@@ -1,5 +1,7 @@
 ---
-title: "Mckenna Cooper"
+title: "About Me"
+
+Hi! I'm Mckenna. I am a 4th year ESS student currently taking 
 ---
 
 This is a Quarto website.
