@@ -7,7 +7,7 @@ website:
   favicon: img/logo.png # NOTE: that the `favicon` is a `website` level option (not under `navbar`)
   navbar:
     title: false # override printing your website `title` (e.g. "Mckenna Cooper" on line 6)
-    logo: img/logo.png
+    logo: img/logo_transparent.png
     logo-alt: "Mckenna Cooper"
     left:
       - href: index.qmd
@@ -16,7 +16,7 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
-      - href: img/mcooper_resume_01302025.pdf
+      - href: img/mcooper_resume.pdf
         text: Resume
   page-footer:
     background: light # or `dark`

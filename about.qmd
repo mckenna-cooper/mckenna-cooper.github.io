@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: img/IMG_3760.JPG
+image: docs/img/IMG_3760.JPG
 about: 
   template: jolla 
   image-shape: round
