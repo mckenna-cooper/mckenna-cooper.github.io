@@ -8,9 +8,13 @@ As a student at the Warner College of Natural Resources, I have gained experienc
 ## ArcGIS: Brooklyn Youth Parks Project
 
 -   **Project Scope & Goal**: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.
--   **GIS Analysis**: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.
--   **Data-Driven Approach**: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.
--   **Targeted Community Impact**: Determined Borough Park as a high-priority area needing a new park.
--   **Advocacy for Environmental Equity**: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.![]()
 
-![](docs/img/brooklyn-youth_parks-project.pdf){width="600" height="40"}
+-   **GIS Analysis**: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.
+
+-   **Data-Driven Approach**: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.
+
+-   **Targeted Community Impact**: Determined Borough Park as a high-priority area needing a new park.
+
+-   **Advocacy for Environmental Equity**: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.
+
+    [Download the PDF](mckenna-cooper.github.io/brooklyn-youth_parks-project.pdf)
