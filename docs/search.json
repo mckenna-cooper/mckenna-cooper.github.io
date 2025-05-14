@@ -4,70 +4,70 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "As a student at the Warner College of Natural Resources, I have gained experience with various software and data processing tools to develop solutions for environmental projects. I have a basic understanding of ArcGIS, which I have applied in coursework (see project below). Currently, I am expanding my technical skills in Quantitative Reasoning for Ecosystem Science, where I am learning to code in R using RStudio and build websites, including this one."
+    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
   },
   {
     "objectID": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "href": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "title": "Projects",
-    "section": "ArcGIS: Brooklyn Youth Parks Project (Spring 2024)",
-    "text": "ArcGIS: Brooklyn Youth Parks Project (Spring 2024)\n\nProject Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
+    "section": "",
+    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
   },
   {
-    "objectID": "project.html#quantitaive-reasoning-labs-overview",
-    "href": "project.html#quantitaive-reasoning-labs-overview",
+    "objectID": "project.html#quantitative-reasoning-labs-overview",
+    "href": "project.html#quantitative-reasoning-labs-overview",
     "title": "Projects",
-    "section": "Quantitaive Reasoning Labs Overview",
-    "text": "Quantitaive Reasoning Labs Overview\nThe following projects were completed as a part of the curriculum for ESS 330: Quantitative Reasoning for Ecosystem Science at Colorado State University during the Spring 2025."
+    "section": "Quantitative Reasoning Labs Overview",
+    "text": "Quantitative Reasoning Labs Overview\nThe following projects were completed as a part of the curriculum for ESS 330: Quantitative Reasoning for Ecosystem Science at Colorado State University during the Spring 2025."
   },
   {
     "objectID": "project.html#lab-1",
     "href": "project.html#lab-1",
     "title": "Projects",
     "section": "Lab 1",
-    "text": "Lab 1\nIn this lab, I learned how to create and publish a personal website using Quarto, RStudio, and GitHub Pages. I gained foundational skills in web development, including writing in Markdown, customizing YAML headers, and applying CSS, Sass, and a favicon to personalize the design and structure of my site. This process allowed me to reflect on my accomplishments and goals throughout my undergraduate education while thoughtfully curating a unique digital portfolio. The final product not only showcases my academic and professional journey but also serves as a dynamic platform I can continue to develop and share with prospective employers, mentors, and collaborators in the future."
+    "text": "Lab 1\n\n\n\nLab 1 favicon\n\n\nIn this lab, I learned how to create and publish a personal website using Quarto, RStudio, and GitHub Pages. I gained foundational skills in web development, including writing in Markdown, customizing YAML headers, and applying CSS, Sass, and a favicon to personalize the design and structure of my site. This process allowed me to reflect on my accomplishments and goals throughout my undergraduate education while thoughtfully curating a unique digital portfolio. The final product not only showcases my academic and professional journey but also serves as a dynamic platform I can continue to develop and share with prospective employers, mentors, and collaborators in the future."
   },
   {
     "objectID": "project.html#lab-2",
     "href": "project.html#lab-2",
     "title": "Projects",
     "section": "Lab 2",
-    "text": "Lab 2\n\n\n\nLab 2 Image\n\n\nI learned how to manipulate and transform data in R using the dplyr package. I became familiar with key functions such as filter(), slice(), arrange(), select(), mutate(), and summarize() to filter, reorder, modify, and summarize datasets. Using a Minnesota tree growth dataset, I practiced tasks like subsetting data, sorting, renaming columns, creating new variables, and summarizing statistics. I also explored advanced features like grouping data, using conditional statements with case_when(), and counting rows with n(). The lab helped me understand how to efficiently chain multiple operations with the pipe operator (%&gt;%), which streamlined the process of data wrangling and analysis."
+    "text": "Lab 2\n\n\n\nLab 2 bar graph\n\n\nI learned how to manipulate and transform data in R using the dplyr package. I became familiar with key functions such as filter(), slice(), arrange(), select(), mutate(), and summarize() to filter, reorder, modify, and summarize datasets. Using a Minnesota tree growth dataset, I practiced tasks like subsetting data, sorting, renaming columns, creating new variables, and summarizing statistics. I also explored advanced features like grouping data, using conditional statements with case_when(), and counting rows with n(). The lab helped me understand how to efficiently chain multiple operations with the pipe operator (%&gt;%), which streamlined the process of data wrangling and analysis."
   },
   {
     "objectID": "project.html#lab-3",
     "href": "project.html#lab-3",
     "title": "Projects",
     "section": "Lab 3",
-    "text": "Lab 3\nI learned how to work with COVID-19 data for data wrangling and visualization tasks. Using the data set curated by the New York Times, I practiced filtering, grouping, and summarizing data, as well as handling population data from the Census to normalize the COVID data. I explored how to calculate new cases, cumulative cases, and death tolls at the county level in Colorado. I applied methods like lag and diff to calculate daily new cases and used rolling averages to smooth trends over time. I also visualized the data, creating tables and plots to present the most affected counties and track the virus’ movement. I learned how to compute weighted mean centers for COVID-19 cases and deaths to better understand the spatial dynamics of the outbreak. Additionally, I worked on using the flextable package to generate well-organized tables and ggplot2 to create insightful visualizations, including faceted bar plots and time-series plots. This lab helped me gain hands-on experience with integrating multiple data sets, processing time-sensitive data, and communicating findings effectively through both tables and visualizations."
+    "text": "Lab 3\n\n\n\nLab 3 time series plot\n\n\nI learned how to work with COVID-19 data for data wrangling and visualization tasks. Using the data set curated by the New York Times, I practiced filtering, grouping, and summarizing data, as well as handling population data from the Census to normalize the COVID data. I explored how to calculate new cases, cumulative cases, and death tolls at the county level in Colorado. I applied methods like lag and diff to calculate daily new cases and used rolling averages to smooth trends over time. I also visualized the data, creating tables and plots to present the most affected counties and track the virus’ movement. I learned how to compute weighted mean centers for COVID-19 cases and deaths to better understand the spatial dynamics of the outbreak. Additionally, I worked on using the flextable package to generate well-organized tables and ggplot2 to create insightful visualizations, including faceted bar plots and time-series plots. This lab helped me gain hands-on experience with integrating multiple data sets, processing time-sensitive data, and communicating findings effectively through both tables and visualizations."
   },
   {
     "objectID": "project.html#lab-4",
     "href": "project.html#lab-4",
     "title": "Projects",
     "section": "Lab 4",
-    "text": "Lab 4\nIn Lab 4, I learned how to conduct basic statistical tests in R, including chi-square tests, t-tests, and correlation tests. I applied these tests to data from the Long-Term Ecological Research (LTER) Network, specifically focusing on Cutthroat trout and salamander species in Mack Creek, Oregon. I explored relationships between categorical variables, such as forest and channel types, using chi-square tests. I compared the mean weights of species in clear-cut versus old-growth forests using t-tests and examined the relationship between length and weight for different species using correlation tests. I also learned the importance of checking assumptions like normality and variance equality before conducting these tests."
+    "text": "Lab 4\n\n\n\nLab 4 Image\n\n\nIn Lab 4, I learned how to conduct basic statistical tests in R, including chi-square tests, t-tests, and correlation tests. I applied these tests to data from the Long-Term Ecological Research (LTER) Network, specifically focusing on Cutthroat trout and salamander species in Mack Creek, Oregon. I explored relationships between categorical variables, such as forest and channel types, using chi-square tests. I compared the mean weights of species in clear-cut versus old-growth forests using t-tests and examined the relationship between length and weight for different species using correlation tests. I also learned the importance of checking assumptions like normality and variance equality before conducting these tests."
   },
   {
     "objectID": "project.html#lab-5",
     "href": "project.html#lab-5",
     "title": "Projects",
     "section": "Lab 5",
-    "text": "Lab 5\n In Lab 5, I learned how to set up a Quarto manuscript for our final project proposal. I worked with my team to create a structure for our project, where we added our team members in the YAML file and prepared the necessary files, such as references.bib for citations. We also learned how to format citations using Google Scholar and BibTeX, and integrate these references into our manuscript using Quarto’s citation system. Additionally, we began ideating for our final project by proposing two unique research ideas, detailing their significance, objectives, methods, and expected outcomes. This lab taught me how to organize a collaborative project, manage citations efficiently, and present research proposals in a structured format."
+    "text": "Lab 5\n\n\n\nLab 5 BibTeX citations\n\n\nIn Lab 5, I learned how to set up a Quarto manuscript for our final project proposal. I worked with my team to create a structure for our project, where we added our team members in the YAML file and prepared the necessary files, such as references.bib for citations. We also learned how to format citations using Google Scholar and BibTeX, and integrate these references into our manuscript using Quarto’s citation system. Additionally, we began ideating for our final project by proposing research ideas, detailing their significance, objectives, methods, and expected outcomes. This lab taught me how to organize a collaborative project, manage citations efficiently, and present research proposals in a structured format."
   },
   {
     "objectID": "project.html#lab-6",
     "href": "project.html#lab-6",
     "title": "Projects",
     "section": "Lab 6",
-    "text": "Lab 6\nIn this lab, I learned how to apply the tidymodels framework in R for predictive modeling in hydrology, using the CAMELS dataset. I explored the relationships between various environmental factors such as aridity, rainfall, and streamflow (q_mean) and examined how transformations, like log transformations, could improve the linearity of these relationships for model building. Additionally, I practiced using tools like data splitting, cross-validation, and model evaluation to prepare for building a predictive model for streamflow. The lab also involved creating map outputs to visualize predictions of streamflow across different geographic locations, allowing me to interpret the model results in a spatial context. The lab helped me gain hands-on experience in integrating data preprocessing, visualization, and model evaluation in a real-world environmental context."
+    "text": "Lab 6\n\n\n\nLab 6 maps\n\n\nIn this lab, I learned how to apply the tidymodels framework in R for predictive modeling in hydrology, using the CAMELS data set. I explored the relationships between various environmental factors such as aridity, rainfall, and stream flow (q_mean) and examined how transformations, like log transformations, could improve the linearity of these relationships for model building. Additionally, I practiced using tools like data splitting, cross-validation, and model evaluation to prepare for building a predictive model for stream flow. The lab also involved creating map outputs to visualize predictions of stream flow across different geographic locations, allowing me to interpret the model results in a spatial context. The lab helped me gain hands-on experience in integrating data pre-processing, visualization, and model evaluation in a real-world environmental context."
   },
   {
     "objectID": "project.html#lab-7",
     "href": "project.html#lab-7",
     "title": "Projects",
     "section": "Lab 7",
-    "text": "Lab 7\nLab 7 continued the setup for our final project, building on the work we began in Lab 5. My team and I focused on narrowing our research question and selecting data sources, which allowed us to draft the introduction, background, and motivations for our project. We provided an overview of the problem we are addressing and outlined our proposed methods. This included conducting exploratory data analysis, creating visualizations, and considering the need for data cleaning and manipulation. We also identified our preliminary analysis methods, potential challenges in the data and methods, and any additional data we might need. The lab helped us organize our work, refine our approach, and anticipate any roadblocks ahead."
+    "text": "Lab 7\n\n\n\nLab 7 Image\n\n\nLab 7 continued the setup for our final project, building on the work we began in Lab 5. My team and I focused on narrowing our research question and selecting data sources, which allowed us to draft the introduction, background, and motivations for our project. We provided an overview of the problem we are addressing and outlined our proposed methods. This included conducting exploratory data analysis, creating visualizations, and considering the need for data cleaning and manipulation. We also identified our preliminary analysis methods, potential challenges in the data and methods, and any additional data we might need. The lab helped us organize our work, refine our approach, and anticipate any roadblocks ahead."
   },
   {
     "objectID": "project.html#lab-8",
@@ -81,28 +81,28 @@
     "href": "project.html#lab-9",
     "title": "Projects",
     "section": "Lab 9",
-    "text": "Lab 9\nLab 9 focused on advancing our final project by drafting the results and discussion sections. My team and I continued working in the Manuscript created in Lab 7, refining our methods and analysis. We began drafting the results by presenting the outcomes of our data exploration and analysis, including visualizations and models. At this stage, we avoided discussing the significance of the results, focusing on presenting the data. We also started drafting the discussion, addressing the implications of our findings, their significance, and the limitations of our analysis. We outlined how our results relate to the broader field of data science and proposed next steps and open questions for future research. This lab allowed us to refine our analysis and start tying our findings into the larger context of our project."
+    "text": "Lab 9\n\n\n\nLab 9 bar graph\n\n\nLab 9 focused on advancing our final project by drafting the results and discussion sections. My team and I continued working in the Manuscript created in Lab 7, refining our methods and analysis. We began drafting the results by presenting the outcomes of our data exploration and analysis, including visualizations and models. At this stage, we avoided discussing the significance of the results, focusing on presenting the data. We also started drafting the discussion, addressing the implications of our findings, their significance, and the limitations of our analysis. We outlined how our results relate to the broader field of data science and proposed next steps and open questions for future research. This lab allowed us to refine our analysis and start tying our findings into the larger context of our project."
   },
   {
     "objectID": "project.html#lab-10",
     "href": "project.html#lab-10",
     "title": "Projects",
     "section": "Lab 10",
-    "text": "Lab 10\nIn Lab 10, I explored spatial data science concepts, including coordinate systems, distance calculations, and geographic projections. I worked with spatial data for U.S. states, cities, and national borders, using the sf package to manipulate geometries and calculate distances from cities to various borders. This included distances to the national, state, Canadian, and Mexican borders. I also visualized these distances using ggplot and created maps highlighting specific cities. Additionally, I analyzed the 100-mile “border zone” and its implications, identifying cities within this zone and calculating their populations. This lab enhanced my skills in spatial analysis, distance calculations, and geospatial visualization."
+    "text": "Lab 10\n\n\n\nLab 10 raster map\n\n\nIn Lab 10, I explored spatial data science concepts, including coordinate systems, distance calculations, and geographic projections. I worked with spatial data for U.S. states, cities, and national borders, using the sf package to manipulate geometries and calculate distances from cities to various borders. This included distances to the national, state, Canadian, and Mexican borders. I also visualized these distances using ggplot and created maps highlighting specific cities. Additionally, I analyzed the 100-mile “border zone” and its implications, identifying cities within this zone and calculating their populations. This lab enhanced my skills in spatial analysis, distance calculations, and geospatial visualization."
   },
   {
     "objectID": "project.html#lab-11",
     "href": "project.html#lab-11",
     "title": "Projects",
     "section": "Lab 11",
-    "text": "Lab 11"
+    "text": "Lab 11\n\n\n\nLab 11 heat map\n\n\n\n\n\nLab 11 discussion slide\n\n\nIn our presentation, my group and I explored how riparian zone condition and water quality affect freshwater macroinvertebrate diversity, specifically focusing on EPT taxa (Ephemeroptera, Plecoptera, Trichoptera), which serve as sensitive indicators of aquatic ecosystem health. Using data from Lassen Volcanic National Park, we found that water quality variables, particularly dissolved oxygen, had the strongest correlation with EPT richness. While vegetation cover was the least directly correlated, it showed indirect links by influencing dissolved oxygen and pH levels. Our analysis highlights the complexity of interactions between habitat structure and biotic communities, emphasizing the importance of maintaining riparian integrity to support biodiversity.\nPresented by: Sarah Culhane, Mckenna Cooper, & Archer Goodman (⚔ The TidyVerse Keepers ⚔)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello, my name is Mckenna Cooper! I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University, graduating in December of 2025. In my career I hope to explore my passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions."
+    "text": "Hello, my name is Mckenna Cooper. I’m a fourth-year Ecosystem Science and Sustainability student at Colorado State University, set to graduate in December 2025. I’m passionate about building sustainable communities and hope to pursue a career that allows me to make a meaningful impact through sustainability-focused project management.\nIn my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I’m eager to grow professionally, expand my skill set, and contribute to innovative, community-driven solutions that promote environmental balance and enhance quality of life."
   },
   {
     "objectID": "index.html",
