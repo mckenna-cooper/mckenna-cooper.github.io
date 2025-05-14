@@ -26,5 +26,96 @@
     "title": "Mckenna Cooper",
     "section": "",
     "text": "Welcome!\nThis website showcases my work in Quantitative Reasoning for Ecosystem Science.\nNavigate using the menu to learn more about my back groud, projects, and resume."
+  },
+  {
+    "objectID": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
+    "href": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
+    "title": "Projects",
+    "section": "ArcGIS: Brooklyn Youth Parks Project (Spring 2024)",
+    "text": "ArcGIS: Brooklyn Youth Parks Project (Spring 2024)\n\nProject Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
+  },
+  {
+    "objectID": "project.html#quantitaive-reasoning-labs-overview",
+    "href": "project.html#quantitaive-reasoning-labs-overview",
+    "title": "Projects",
+    "section": "Quantitaive Reasoning Labs Overview",
+    "text": "Quantitaive Reasoning Labs Overview\nThe following projects were completed as a part of the curriculum for ESS 330: Quantitative Reasoning for Ecosystem Science at Colorado State University during the Spring 2025."
+  },
+  {
+    "objectID": "project.html#lab-1",
+    "href": "project.html#lab-1",
+    "title": "Projects",
+    "section": "Lab 1",
+    "text": "Lab 1"
+  },
+  {
+    "objectID": "project.html#lab-2",
+    "href": "project.html#lab-2",
+    "title": "Projects",
+    "section": "Lab 2",
+    "text": "Lab 2\n\n\n\nLab 2 Image\n\n\nI learned how to manipulate and transform data in R using the dplyr package. I became familiar with key functions such as filter(), slice(), arrange(), select(), mutate(), and summarize() to filter, reorder, modify, and summarize datasets. Using a Minnesota tree growth dataset, I practiced tasks like subsetting data, sorting, renaming columns, creating new variables, and summarizing statistics. I also explored advanced features like grouping data, using conditional statements with case_when(), and counting rows with n(). The lab helped me understand how to efficiently chain multiple operations with the pipe operator (%&gt;%), which streamlined the process of data wrangling and analysis."
+  },
+  {
+    "objectID": "project.html#lab-3",
+    "href": "project.html#lab-3",
+    "title": "Projects",
+    "section": "Lab 3",
+    "text": "Lab 3\nI learned how to work with COVID-19 data for data wrangling and visualization tasks. Using the data set curated by the New York Times, I practiced filtering, grouping, and summarizing data, as well as handling population data from the Census to normalize the COVID data. I explored how to calculate new cases, cumulative cases, and death tolls at the county level in Colorado. I applied methods like lag and diff to calculate daily new cases and used rolling averages to smooth trends over time. I also visualized the data, creating tables and plots to present the most affected counties and track the virus’ movement. I learned how to compute weighted mean centers for COVID-19 cases and deaths to better understand the spatial dynamics of the outbreak. Additionally, I worked on using the flextable package to generate well-organized tables and ggplot2 to create insightful visualizations, including faceted bar plots and time-series plots. This lab helped me gain hands-on experience with integrating multiple data sets, processing time-sensitive data, and communicating findings effectively through both tables and visualizations."
+  },
+  {
+    "objectID": "project.html#lab-4",
+    "href": "project.html#lab-4",
+    "title": "Projects",
+    "section": "Lab 4",
+    "text": "Lab 4\nIn Lab 4, I learned how to conduct basic statistical tests in R, including chi-square tests, t-tests, and correlation tests. I applied these tests to data from the Long-Term Ecological Research (LTER) Network, specifically focusing on Cutthroat trout and salamander species in Mack Creek, Oregon. I explored relationships between categorical variables, such as forest and channel types, using chi-square tests. I compared the mean weights of species in clear-cut versus old-growth forests using t-tests and examined the relationship between length and weight for different species using correlation tests. I also learned the importance of checking assumptions like normality and variance equality before conducting these tests."
+  },
+  {
+    "objectID": "project.html#lab-5",
+    "href": "project.html#lab-5",
+    "title": "Projects",
+    "section": "Lab 5",
+    "text": "Lab 5\n In this lab, I explored [brief description of what you did in Lab 5]. I learned [what you learned in Lab 5]."
+  },
+  {
+    "objectID": "project.html#lab-6",
+    "href": "project.html#lab-6",
+    "title": "Projects",
+    "section": "Lab 6",
+    "text": "Lab 6\n In this lab, I explored [brief description of what you did in Lab 6]. I learned [what you learned in Lab 6]."
+  },
+  {
+    "objectID": "project.html#lab-7",
+    "href": "project.html#lab-7",
+    "title": "Projects",
+    "section": "Lab 7",
+    "text": "Lab 7\n In this lab, I explored [brief description of what you did in Lab 7]. I learned [what you learned in Lab 7]."
+  },
+  {
+    "objectID": "project.html#lab-8",
+    "href": "project.html#lab-8",
+    "title": "Projects",
+    "section": "Lab 8",
+    "text": "Lab 8\n In this lab, I explored [brief description of what you did in Lab 8]. I learned [what you learned in Lab 8]."
+  },
+  {
+    "objectID": "project.html#lab-9",
+    "href": "project.html#lab-9",
+    "title": "Projects",
+    "section": "Lab 9",
+    "text": "Lab 9\n In this lab, I explored [brief description of what you did in Lab 9]. I learned [what you learned in Lab 9]."
+  },
+  {
+    "objectID": "project.html#lab-10",
+    "href": "project.html#lab-10",
+    "title": "Projects",
+    "section": "Lab 10",
+    "text": "Lab 10\n In this lab, I explored [brief description of what you did in Lab 10]. I learned [what you learned in Lab 10]."
+  },
+  {
+    "objectID": "project.html#lab-11",
+    "href": "project.html#lab-11",
+    "title": "Projects",
+    "section": "Lab 11",
+    "text": "Lab 11"
   }
 ]

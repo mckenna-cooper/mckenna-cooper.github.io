@@ -5,7 +5,7 @@ format: html
 
 As a student at the Warner College of Natural Resources, I have gained experience with various software and data processing tools to develop solutions for environmental projects. I have a basic understanding of ArcGIS, which I have applied in coursework (see project below). Currently, I am expanding my technical skills in Quantitative Reasoning for Ecosystem Science, where I am learning to code in R using RStudio and build websites, including this one.
 
-## ArcGIS: Brooklyn Youth Parks Project
+## ArcGIS: Brooklyn Youth Parks Project (Spring 2024)
 
 -   **Project Scope & Goal**: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.
 
@@ -18,3 +18,51 @@ As a student at the Warner College of Natural Resources, I have gained experienc
 -   **Advocacy for Environmental Equity**: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.
 
     [Download the PDF](mckenna-cooper.github.io/brooklyn-youth_parks-project.pdf)
+
+## Quantitaive Reasoning Labs Overview
+
+The following projects were completed as a part of the curriculum for ESS 330: Quantitative Reasoning for Ecosystem Science at Colorado State University during the Spring 2025.
+
+::: tabs
+## Lab 1
+
+## Lab 2
+
+![Lab 2 Image](img/lab_2.png)
+
+I learned how to manipulate and transform data in R using the `dplyr` package. I became familiar with key functions such as `filter()`, `slice()`, `arrange()`, `select()`, `mutate()`, and `summarize()` to filter, reorder, modify, and summarize datasets. Using a Minnesota tree growth dataset, I practiced tasks like subsetting data, sorting, renaming columns, creating new variables, and summarizing statistics. I also explored advanced features like grouping data, using conditional statements with `case_when()`, and counting rows with `n()`. The lab helped me understand how to efficiently chain multiple operations with the pipe operator (`%>%`), which streamlined the process of data wrangling and analysis.
+
+## Lab 3
+
+![Lab 3 Image](img/lab_3.png)I learned how to work with COVID-19 data for data wrangling and visualization tasks. Using the data set curated by the New York Times, I practiced filtering, grouping, and summarizing data, as well as handling population data from the Census to normalize the COVID data. I explored how to calculate new cases, cumulative cases, and death tolls at the county level in Colorado. I applied methods like lag and diff to calculate daily new cases and used rolling averages to smooth trends over time. I also visualized the data, creating tables and plots to present the most affected counties and track the virus’ movement. I learned how to compute weighted mean centers for COVID-19 cases and deaths to better understand the spatial dynamics of the outbreak. Additionally, I worked on using the `flextable` package to generate well-organized tables and `ggplot2` to create insightful visualizations, including faceted bar plots and time-series plots. This lab helped me gain hands-on experience with integrating multiple data sets, processing time-sensitive data, and communicating findings effectively through both tables and visualizations.
+
+## Lab 4
+
+![Lab 4 Image](img/lab_4.png)In Lab 4, I learned how to conduct basic statistical tests in R, including chi-square tests, t-tests, and correlation tests. I applied these tests to data from the Long-Term Ecological Research (LTER) Network, specifically focusing on Cutthroat trout and salamander species in Mack Creek, Oregon. I explored relationships between categorical variables, such as forest and channel types, using chi-square tests. I compared the mean weights of species in clear-cut versus old-growth forests using t-tests and examined the relationship between length and weight for different species using correlation tests. I also learned the importance of checking assumptions like normality and variance equality before conducting these tests.
+
+## Lab 5
+
+![Lab 5 Image](img/lab_5.png) In this lab, I explored \[brief description of what you did in Lab 5\]. I learned \[what you learned in Lab 5\].
+
+## Lab 6
+
+![Lab 6 Image](img/lab_6.png) In this lab, I explored \[brief description of what you did in Lab 6\]. I learned \[what you learned in Lab 6\].
+
+## Lab 7
+
+![Lab 7 Image](img/lab_7.png) In this lab, I explored \[brief description of what you did in Lab 7\]. I learned \[what you learned in Lab 7\].
+
+## Lab 8
+
+![Lab 8 Image](img/lab_8.png) In this lab, I explored \[brief description of what you did in Lab 8\]. I learned \[what you learned in Lab 8\].
+
+## Lab 9
+
+![Lab 9 Image](img/Lab_9.png) In this lab, I explored \[brief description of what you did in Lab 9\]. I learned \[what you learned in Lab 9\].
+
+## Lab 10
+
+![Lab 10 Image](img/lab_10.png) In this lab, I explored \[brief description of what you did in Lab 10\]. I learned \[what you learned in Lab 10\].
+
+## Lab 11
+:::
