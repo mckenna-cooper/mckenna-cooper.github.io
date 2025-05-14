@@ -4,14 +4,14 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
+    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy."
   },
   {
     "objectID": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "href": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "title": "Projects",
     "section": "",
-    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
+    "text": "Project Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy."
   },
   {
     "objectID": "project.html#quantitative-reasoning-labs-overview",
@@ -74,7 +74,7 @@
     "href": "project.html#lab-8",
     "title": "Projects",
     "section": "Lab 8",
-    "text": "Lab 8\n\n\n\nLab 8 Image\n\n\nIn this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyperparameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish."
+    "text": "Lab 8\n\n\n\nLab 8 prediction map\n\n\nIn this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyper-parameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish."
   },
   {
     "objectID": "project.html#lab-9",

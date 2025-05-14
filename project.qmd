@@ -15,7 +15,9 @@ format: html
 
 -   **Advocacy for Environmental Equity**: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.
 
-    [Download the PDF](mckenna-cooper.github.io/brooklyn-youth_parks-project.pdf)
+    ![](img/brooklyn_1.png)
+
+    ![](img/brooklyn_2.png)
 
 ## Quantitative Reasoning Labs Overview
 
@@ -68,9 +70,9 @@ Lab 7 continued the setup for our final project, building on the work we began i
 
 ## Lab 8
 
-![Lab 8 Image](img/lab_8.png){width="905"}
+![Lab 8 prediction map](img/lab_8.png){width="905"}
 
-In this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyperparameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish.
+In this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyper-parameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish.
 
 ## Lab 9
 
