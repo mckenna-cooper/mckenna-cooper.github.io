@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: docs/img/IMG_3760.JPG
+image: img/IMG_3760.JPG
 about: 
   template: jolla 
   image-shape: round
@@ -16,4 +16,4 @@ about:
       href: mailto:mcooper2@colostate.edu
 ---
 
-I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University with a passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions. about
+Hello, my name is Mckenna Cooper! I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University, graduating in December of 2025. In my career I hope to explore my passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions.

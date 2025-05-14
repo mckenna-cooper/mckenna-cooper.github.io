@@ -7,27 +7,6 @@
     "text": "As a student at the Warner College of Natural Resources, I have gained experience with various software and data processing tools to develop solutions for environmental projects. I have a basic understanding of ArcGIS, which I have applied in coursework (see project below). Currently, I am expanding my technical skills in Quantitative Reasoning for Ecosystem Science, where I am learning to code in R using RStudio and build websites, including this one."
   },
   {
-    "objectID": "project.html#arcgis-brooklyn-youth-parks-project",
-    "href": "project.html#arcgis-brooklyn-youth-parks-project",
-    "title": "Projects",
-    "section": "ArcGIS: Brooklyn Youth Parks Project",
-    "text": "ArcGIS: Brooklyn Youth Parks Project\n\nProject Scope & Goal: Developed the Brooklyn Youth Parks Project to increase green space access for children in high-density urban areas.\nGIS Analysis: Utilized ArcGIS to analyze New York City boroughs, neighborhoods, parks, and demographics.\nData-Driven Approach: Identified areas lacking parks within a 0.25-mile radius and prioritized regions with over 2,000 residents under 18.\nTargeted Community Impact: Determined Borough Park as a high-priority area needing a new park.\nAdvocacy for Environmental Equity: Promoted the importance of nature access for urban youth to support learning, creativity, and environmental empathy.\nDownload the PDF"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University with a passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions. about"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mckenna Cooper",
-    "section": "",
-    "text": "Welcome!\nThis website showcases my work in Quantitative Reasoning for Ecosystem Science.\nNavigate using the menu to learn more about my back groud, projects, and resume."
-  },
-  {
     "objectID": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "href": "project.html#arcgis-brooklyn-youth-parks-project-spring-2024",
     "title": "Projects",
@@ -46,7 +25,7 @@
     "href": "project.html#lab-1",
     "title": "Projects",
     "section": "Lab 1",
-    "text": "Lab 1"
+    "text": "Lab 1\nIn this lab, I learned how to create and publish a personal website using Quarto, RStudio, and GitHub Pages. I gained foundational skills in web development, including writing in Markdown, customizing YAML headers, and applying CSS, Sass, and a favicon to personalize the design and structure of my site. This process allowed me to reflect on my accomplishments and goals throughout my undergraduate education while thoughtfully curating a unique digital portfolio. The final product not only showcases my academic and professional journey but also serves as a dynamic platform I can continue to develop and share with prospective employers, mentors, and collaborators in the future."
   },
   {
     "objectID": "project.html#lab-2",
@@ -117,5 +96,19 @@
     "title": "Projects",
     "section": "Lab 11",
     "text": "Lab 11"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, my name is Mckenna Cooper! I am a fourth-year Ecosystem Science and Sustainability student at Colorado State University, graduating in December of 2025. In my career I hope to explore my passion for building sustainable communities. In my free time, I enjoy skiing, sewing, and volunteering at a local community garden in Fort Collins. I am eager to expand my skills and explore new professional experiences, particularly in sustainability-focused project management. My goal is to contribute to initiatives that improve livelihoods and promote environmental balance through innovative and community-driven solutions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mckenna Cooper",
+    "section": "",
+    "text": "Welcome!\nThis website serves as a personal portfolio showcasing selected academic and professional projects in environmental science and data analysis. Through coursework and independent work, I’ve developed skills in R, GitHub, Quarto, and reproducible research practices.\nUse the navigation menu to explore my background, browse featured projects, and access my resume. Whether you’re here as a mentor, collaborator, or potential employer—thanks for visiting!"
   }
 ]
