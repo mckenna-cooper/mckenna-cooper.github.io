@@ -42,27 +42,29 @@ I learned how to manipulate and transform data in R using the `dplyr` package. I
 
 ## Lab 5
 
-![Lab 5 Image](img/lab_5.png) In this lab, I explored \[brief description of what you did in Lab 5\]. I learned \[what you learned in Lab 5\].
+![Lab 5 Image](img/lab_5.png) In Lab 5, I learned how to set up a Quarto manuscript for our final project proposal. I worked with my team to create a structure for our project, where we added our team members in the YAML file and prepared the necessary files, such as `references.bib` for citations. We also learned how to format citations using Google Scholar and BibTeX, and integrate these references into our manuscript using Quarto’s citation system. Additionally, we began ideating for our final project by proposing two unique research ideas, detailing their significance, objectives, methods, and expected outcomes. This lab taught me how to organize a collaborative project, manage citations efficiently, and present research proposals in a structured format.
 
 ## Lab 6
 
-![Lab 6 Image](img/lab_6.png) In this lab, I explored \[brief description of what you did in Lab 6\]. I learned \[what you learned in Lab 6\].
+![Lab 6 Image](img/lab_6.png)In this lab, I learned how to apply the tidymodels framework in R for predictive modeling in hydrology, using the CAMELS dataset. I explored the relationships between various environmental factors such as aridity, rainfall, and streamflow (q_mean) and examined how transformations, like log transformations, could improve the linearity of these relationships for model building. Additionally, I practiced using tools like data splitting, cross-validation, and model evaluation to prepare for building a predictive model for streamflow. The lab also involved creating map outputs to visualize predictions of streamflow across different geographic locations, allowing me to interpret the model results in a spatial context. The lab helped me gain hands-on experience in integrating data preprocessing, visualization, and model evaluation in a real-world environmental context.
 
 ## Lab 7
 
-![Lab 7 Image](img/lab_7.png) In this lab, I explored \[brief description of what you did in Lab 7\]. I learned \[what you learned in Lab 7\].
+![Lab 7 Image](img/lab_7.png)Lab 7 continued the setup for our final project, building on the work we began in Lab 5. My team and I focused on narrowing our research question and selecting data sources, which allowed us to draft the introduction, background, and motivations for our project. We provided an overview of the problem we are addressing and outlined our proposed methods. This included conducting exploratory data analysis, creating visualizations, and considering the need for data cleaning and manipulation. We also identified our preliminary analysis methods, potential challenges in the data and methods, and any additional data we might need. The lab helped us organize our work, refine our approach, and anticipate any roadblocks ahead.
 
 ## Lab 8
 
-![Lab 8 Image](img/lab_8.png) In this lab, I explored \[brief description of what you did in Lab 8\]. I learned \[what you learned in Lab 8\].
+![Lab 8 Image](img/lab_8.png)
+
+In this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyperparameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish.
 
 ## Lab 9
 
-![Lab 9 Image](img/Lab_9.png) In this lab, I explored \[brief description of what you did in Lab 9\]. I learned \[what you learned in Lab 9\].
+![Lab 9 Image](img/Lab_9.png)Lab 9 focused on advancing our final project by drafting the results and discussion sections. My team and I continued working in the Manuscript created in Lab 7, refining our methods and analysis. We began drafting the results by presenting the outcomes of our data exploration and analysis, including visualizations and models. At this stage, we avoided discussing the significance of the results, focusing on presenting the data. We also started drafting the discussion, addressing the implications of our findings, their significance, and the limitations of our analysis. We outlined how our results relate to the broader field of data science and proposed next steps and open questions for future research. This lab allowed us to refine our analysis and start tying our findings into the larger context of our project.
 
 ## Lab 10
 
-![Lab 10 Image](img/lab_10.png) In this lab, I explored \[brief description of what you did in Lab 10\]. I learned \[what you learned in Lab 10\].
+![Lab 10 Image](img/lab_10.png)In Lab 10, I explored spatial data science concepts, including coordinate systems, distance calculations, and geographic projections. I worked with spatial data for U.S. states, cities, and national borders, using the `sf` package to manipulate geometries and calculate distances from cities to various borders. This included distances to the national, state, Canadian, and Mexican borders. I also visualized these distances using `ggplot` and created maps highlighting specific cities. Additionally, I analyzed the 100-mile "border zone" and its implications, identifying cities within this zone and calculating their populations. This lab enhanced my skills in spatial analysis, distance calculations, and geospatial visualization.
 
 ## Lab 11
 :::
