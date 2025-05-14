@@ -24,7 +24,9 @@ The following projects were completed as a part of the curriculum for ESS 330: Q
 ::: tabs
 ## Lab 1
 
-![Lab 1 favicon](img/earth-logo.png.png){fig-align="center" width="185"}
+![](img/earth-logo.png.png){fig-align="center" width="185"}
+
+![Lab 1 \_quarto.yml](img/lab_1-2.png){alt="Lab 8 Image"}
 
 In this lab, I learned how to create and publish a personal website using Quarto, RStudio, and GitHub Pages. I gained foundational skills in web development, including writing in Markdown, customizing YAML headers, and applying CSS, Sass, and a favicon to personalize the design and structure of my site. This process allowed me to reflect on my accomplishments and goals throughout my undergraduate education while thoughtfully curating a unique digital portfolio. The final product not only showcases my academic and professional journey but also serves as a dynamic platform I can continue to develop and share with prospective employers, mentors, and collaborators in the future.
 
@@ -42,7 +44,7 @@ I learned how to work with COVID-19 data for data wrangling and visualization ta
 
 ## Lab 4
 
-![Lab 4 Image](img/lab_4.png)
+![Lab 4 linear regression](img/lab_4.png)
 
 In Lab 4, I learned how to conduct basic statistical tests in R, including chi-square tests, t-tests, and correlation tests. I applied these tests to data from the Long-Term Ecological Research (LTER) Network, specifically focusing on Cutthroat trout and salamander species in Mack Creek, Oregon. I explored relationships between categorical variables, such as forest and channel types, using chi-square tests. I compared the mean weights of species in clear-cut versus old-growth forests using t-tests and examined the relationship between length and weight for different species using correlation tests. I also learned the importance of checking assumptions like normality and variance equality before conducting these tests.
 
@@ -60,13 +62,13 @@ In this lab, I learned how to apply the tidymodels framework in R for predictive
 
 ## Lab 7
 
-![Lab 7 Image](img/lab_7.png)
+![Lab 7 stacked column plot](img/lab_7.png)
 
 Lab 7 continued the setup for our final project, building on the work we began in Lab 5. My team and I focused on narrowing our research question and selecting data sources, which allowed us to draft the introduction, background, and motivations for our project. We provided an overview of the problem we are addressing and outlined our proposed methods. This included conducting exploratory data analysis, creating visualizations, and considering the need for data cleaning and manipulation. We also identified our preliminary analysis methods, potential challenges in the data and methods, and any additional data we might need. The lab helped us organize our work, refine our approach, and anticipate any roadblocks ahead.
 
 ## Lab 8
 
-![Lab 8 Image](img/lab_8.png)
+![Lab 8 Image](img/lab_8.png){width="905"}
 
 In this lab, I learned how to implement a complete machine learning pipeline for a regression problem using the CAMELS data set. I gained hands-on experience with data preparation, including cleaning and transforming the data set, followed by splitting it into training and testing sets. I learned to create and apply feature engineering techniques through recipes and resample the data for cross-validation. The lab emphasized building and testing multiple machine learning models, followed by selecting and tuning the best-performing model. I explored hyperparameter tuning through grid search, evaluated model performance using metrics like RMSE and R-squared, and visualized results through plots. Lastly, I learned how to finalize a model and assess its performance on test data, culminating in a map of predictions and residuals. This lab gave me a comprehensive understanding of the machine learning workflow from start to finish.
 
